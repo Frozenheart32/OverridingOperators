@@ -31,6 +31,12 @@
 *.out
 *.app
 
+*.idb
+*.pdb
+
+Debug
+Release
+
 #IDE
 .vscode
 .vs
